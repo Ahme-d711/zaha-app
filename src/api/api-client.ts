@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3131/api';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://zaha-api.vercel.app/api';
 
 /**
  * Professional Axios instance configuration
